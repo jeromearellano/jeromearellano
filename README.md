@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeromearellano
+- 👋 Hi, I’m Jerome Arellano
 - 👀 I’m interested in mainly programming in different languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
