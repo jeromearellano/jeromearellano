@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerome Arellano
-- 👀 I’m interested in mainly programming in different languages
+- 👀 I’m interested in mainly programming using different languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me, email me at jerome.a.arellano@gmail.com
