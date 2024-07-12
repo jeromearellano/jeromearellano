@@ -9,8 +9,8 @@
 
 # 📊 GitHub Stats:
 [![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeromearellano&show_icons=true&theme=radical)](https://github.com/jeromearellano/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeromearellano&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromearellano&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeromearellano&theme=github-dark-dimmed&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromearellano&layout=donut)](https://github.com/jeromearellano/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jeromearellano&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
